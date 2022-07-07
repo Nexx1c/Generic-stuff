@@ -27,7 +27,7 @@ pip install -r ansible/requirements.txt
 export PATH=$PATH:$(pwd)/ansible/venv/bin
 ```
 
--   Change your credentials in domain.yml (Optional but recommended
+-   Change your credentials in domain.yml (Optional but recommended)
     
 -   Initialize Terraform
 ```
